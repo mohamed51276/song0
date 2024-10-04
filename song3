@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> أغاني بدون موسيقي</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: white;
+        }
+        .song {
+            background: white;
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .song h2 {
+            margin: 0;
+        }
+        .song audio {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1> أغاني بدون موسيقي</h1>
+</header>
+
+<main>
+    <div class="song">
+        <h2>  ياما ليالي </h2>
+        <audio controls>
+            <source src="".mp3" type="audio/mpeg">
+            متصفحك لا يدعم تشغيل الصوت.
+        </audio>
+    </div>
+
+    <div class="song">
+        <h2>  شرين مشاعر</h2>
+        <audio controls>
+            <source src="Masha³r شرين مشاعر Shrein.mp3" type="audio/mpeg">
+            متصفحك لا يدعم تشغيل الصوت.
+        </audio>
+    </div>
+
+    <div class="song">
+        <h2>يا نجوم الليل</h2>
+        <audio controls>
+            <source src="audio [vocals] (1).mp3" type="audio/mpeg">
+            متصفحك لا يدعم تشغيل الصوت.
+        </audio>
+    </div>
+    <div class="song">
+        <h2>quite music</h2>
+        <audio controls>
+            <source src="c63116df105bdf3745897e7c93192e58 (درجة الصوت 0,00 - سرعة إيقاع 100)(1).mp3" type="audio/mpeg">
+            متصفحك لا يدعم تشغيل الصوت.
+        </audio>
+        <div class="song">
+            <h2>بتفتكرني سعات</h2>
+            <audio controls>
+                <source src="mix_2024-05-28_20-46-07.wav">
+                متصفحك لا يدعم تشغيل الصوت.
+            </audio>
+            <div class="song">
+                <h2> فقدت نفسي  </h2>
+                <audio controls>
+                    <source src="Mohamed Hamada - أصاله فقدت نفسي بدون موسيقي mohamed 2024-04-01 19_07.m4a" type="audio/mpeg">
+                    متصفحك لا يدعم تشغيل الصوت.
+                </audio>
+                <div class="song">
+                    <h2>اخر عازف </h2>
+                    <audio controls>
+                        <source src="Mohamed Hamada - عمار اخر عازف علي الارض 2024-09-12 14_54.m4a" type="audio/mpeg">
+                        متصفحك لا يدعم تشغيل الصوت.
+                    </audio>
+                </div>
+                <div class="song">
+                    <h2>قمر مهاب</h2>
+                    <audio controls>
+                        <source src="Mohamed Hamada - قمر مهاب 2024-09-06 15_23.m4a" type="audio/mpeg">
+                        متصفحك لا يدعم تشغيل الصوت.
+                    </audio>
+                </div>
+                <div class="song">
+                    <h2>اغاني عبد الرحمن</h2>
+                    <audio controls>
+                        <source src="Mohamed Hamada - اغاني عبد الرحمن بدون موسيقي 2024-03-08 14_55.m4a" type="audio/mpeg">
+                        متصفحك لا يدعم تشغيل الصوت.
+                    </audio>
+                </div>
+                <div class="song">
+                    <h2>جوا عقلي </h2>
+                    <audio controls>
+                        <source src="Mohamed Hamada - جوا عقلي 2024-02-27 13_58.m4a" type="audio/mpeg">
+                        متصفحك لا يدعم تشغيل الصوت.
+                    </audio>
+                </div>
+                <div class="song">
+                    <h2>آن الاوان</h2>
+                    <audio controls>
+                        <source src="آن الاوان بطئ.mp3">
+                        متصفحك لا يدعم تشغيل الصوت.
+                    </audio>
+                </div>
+                
+</main>
+@media (max-width: 600px) {
+    body {
+        padding: 10px;
+    }
+    .song img {
+        width: 80px;
+        height: 80px;
+    }
+}
+<a href="about.html">MOHAMED HAMADA EL GIPALIY</a>
+<a href="contact.html">01061303227تواصل معنا</a>
+
+</body>
+</html>
